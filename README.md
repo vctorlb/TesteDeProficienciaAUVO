@@ -4,17 +4,6 @@ Este repositório contém a solução para os dois desafios propostos pela Auvo,
 
 ---
 
-## 📌 Objetivo
-
-Na Auvo, soluções personalizadas são construídas a partir da automação de fluxos que envolvem dados gerados via software. Este desafio simula situações similares à rotina da vaga desejada, avaliando:
-
-1. Conhecimento do software **Coda**
-2. Conhecimento do software **Make**
-3. Interpretação de **documentações de API**
-4. Capacidade de **integrar diferentes plataformas**
-
----
-
 ## 🔧 Ferramentas Utilizadas
 
 - [Coda.io](https://coda.io/)
