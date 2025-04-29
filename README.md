@@ -34,14 +34,6 @@ Criar, via Make, um documento do Google Docs com informações sobre o clima atu
 - Geração automática de um Google Doc com essas informações
 - Registro dos dados e link do documento em uma tabela do Coda
 
-### ▶️ Demonstração em Vídeo
-
-📽️ [Clique aqui para assistir no Google Drive](https://drive.google.com/drive/folders/1bfjM99bHpYGC_-stZAevGgLhciWyFfsk?usp=sharing)
-
-### 📄 Documento no Coda
-
-🔗 [Acesse aqui o documento do Coda (Desafio 1)](https://coda.io/d/_dSm7bjjCWKw/Desafio-1-Composicao-de-documento-dinamico_suZ8CIEt)
-
 ---
 
 ## 🌤️ Desafio 2 – Previsão do Tempo
@@ -51,6 +43,7 @@ Criar, via Make, um documento do Google Docs com informações sobre o clima atu
 Desenvolver uma segunda página no mesmo documento do Coda, onde o usuário poderá obter a previsão dos próximos 5 dias para uma cidade.
 
 Funcionalidades:
+
 - Entrada do nome da cidade
 - Requisição à Weather API para previsão dos próximos 5 dias
 - Registro em tabela com temperaturas mínimas, máximas e condição
@@ -58,10 +51,18 @@ Funcionalidades:
   - Estatísticas diárias: mínima, máxima e variação
   - Resumo semanal: menor, maior e média de temperatura
 
-### ▶️ Demonstração em Vídeo
+---
 
-📽️ [Clique aqui para assistir no Google Drive](https://drive.google.com/drive/folders/1bfjM99bHpYGC_-stZAevGgLhciWyFfsk?usp=sharing)
+## ▶️ Demonstração em Vídeo
 
+📽️ [Clique aqui para assistir à demonstração dos dois desafios](https://drive.google.com/drive/folders/1bfjM99bHpYGC_-stZAevGgLhciWyFfsk?usp=sharing)
 
+---
+
+## 📄 Documento no Coda
+
+🔗 [Acesse aqui o documento no Coda (Desafios 1 e 2)](https://coda.io/d/_dSm7bjjCWKw/Desafio-1-Composicao-de-documento-dinamico_suZ8CIEt)
+
+---
 
 
