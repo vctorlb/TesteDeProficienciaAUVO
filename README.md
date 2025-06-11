@@ -1,16 +1,4 @@
-# 🧩 Desafio Técnico - Vaga na Auvo
 
-Este repositório contém a solução para os dois desafios propostos pela Auvo, focados em integração via API, manipulação de dados com Make.com e estruturação de documentos dinâmicos com Coda.
-
----
-
-## 🔧 Ferramentas Utilizadas
-
-- [Coda.io](https://coda.io/)
-- [Make.com](https://www.make.com/)
-- [WeatherAPI](https://www.weatherapi.com/)
-
----
 
 ## 🌡️ Desafio 1 – Composição de Documento Dinâmico
 
@@ -40,13 +28,6 @@ Funcionalidades:
   - Estatísticas diárias: mínima, máxima e variação
   - Resumo semanal: menor, maior e média de temperatura
 
----
-
-## ▶️ Demonstração em Vídeo
-
-📽️ [Clique aqui para assistir à demonstração dos dois desafios](https://drive.google.com/drive/folders/1bfjM99bHpYGC_-stZAevGgLhciWyFfsk?usp=sharing)
-
----
 
 ## 📄 Documento no Coda
 
